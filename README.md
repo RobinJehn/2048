@@ -6,4 +6,4 @@ Start without render will freeze the screen and output to the console. After tha
 The generated data only contains moves that resulted in the highest value being in the bottom right corner. Since this happens relatively infrequent just by chance and usually only in the early game, the AI will not perform well after the value is higher than 32.
 
 # Outlook
-I will implement the NEAT algorithm soon and update the reward function so that the AI will learn how to play in the late game.
+Improving the reward function and using a genetic algorithm approach could help to continously boost the AI.
